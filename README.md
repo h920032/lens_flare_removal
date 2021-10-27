@@ -1,4 +1,4 @@
-# Digital Image Processing Final Project Team 27
+# Lens Flare Removal of Deep Fusion Image
 ## Requirements
 ```
 numpy
